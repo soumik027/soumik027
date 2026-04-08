@@ -11,7 +11,7 @@ Python, Django, JavaScript, HTML, CSS, Bootstrap, Tailwind, Full-Stack Web Devel
 ## 📫 How to reach me
 - Email: m.027soumik@gmail.com  
 - Portfolio: [visionary-halva-60dc4b.netlify.app](https://visionary-halva-60dc4b.netlify.app/)  
-- LinkedIn: [Soumik Maity](https://www.linkedin.com/in/soumik-maity/)
+- LinkedIn: [Soumik Maity](https://www.linkedin.com/in/-soumik-maity/)
 
 ---
 
